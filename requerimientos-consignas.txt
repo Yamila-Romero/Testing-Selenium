@@ -1,0 +1,14 @@
+selenium
+pytest
+webdriver-manager
+dotenv
+-------------
+consignas a cumplir en mi Proyecto 
+	Crear una cuenta en la tienda.
+	Utilice el formulario Contáctenos y cargue cualquier archivo en el formulario.
+	Enviar un pedido de 1 artículo.
+	Envíe un pedido de varios artículos.
+	Antes de enviar un pedido, modifique el carrito de compras el número de elementos,
+	y cambiar la cantidad de un elemento.
+	Navegue por el sitio a través de al menos 3 páginas, en al menos dos idiomas diferentes.
+	Regístrese en el boletín.
